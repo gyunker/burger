@@ -1,0 +1,57 @@
+ html {
+	background-color: rgb(5, 26, 70);
+ }
+
+ body {
+ 	width: 75%;
+ 	background-color: white;
+ }
+
+ #burger_pic {
+	display: block;
+	margin: auto;
+}
+
+ h1 {
+ 	text-align: center;
+ 	font-size: 45px;
+ 	margin: 25px;
+ }
+
+ .Available {
+ 	font-size: 20px;
+	text-align: center;
+	min-width: 250px;
+ 	margin: 10px;
+ 	padding: 10px;
+ 	background-color: #9e98ce;
+ }
+
+ 
+ .Consumed {
+ 	font-size: 20px;
+ 	text-align: center;
+	min-width: 250px; 
+	margin: 10px;
+ 	padding: 10px;
+ 	background-color: #f0f0f8;
+ }
+
+ h2 {
+  	text-align: center;
+ 	font-size: 40px;
+ 	margin: 50px;
+ }
+
+ .formContainer {
+ 	background-color: rgb(233, 229, 223);
+ }
+
+ .addBurgerButton {
+ 	font-size: 20px;
+ 	text-align: center;
+ 	padding: 10px;
+ 	background-color: rgb(140, 142, 240);
+ 	border: none;
+ }
+
